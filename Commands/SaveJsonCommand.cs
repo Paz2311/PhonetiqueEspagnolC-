@@ -52,7 +52,7 @@ public class SaveJsonCommand : Command
         {
             WriteIndented = true,
             PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
-            Encoder = JavaScriptEncoder.Create(UnicodeRanges.BasicLatin, UnicodeRanges.Latin1Supplement),
+            Encoder = JavaScriptEncoder.Create(UnicodeRanges.All),
             Converters = { new JsonStringEnumConverter(JsonNamingPolicy.CamelCase) }
         };
     
