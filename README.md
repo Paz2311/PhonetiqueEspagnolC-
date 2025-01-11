@@ -104,7 +104,7 @@ Donc,
 Par exemple, `z; /θ/; Consonne; Dentale; Fricative; Sourde`
 
 - Pour les voyelles `<graphie; /symboleAPI/; voyelle; aperture voyelle; position voyelle; arrondie ou non>`.
- Par exemple, `e; /e/; Voyelle; Anterieure; Mi-fermee; Non-arrondie`
+ Par exemple, `e; /e/; Voyelle; Mi_fermee; Anterieure; Non-arrondie`
 
 
 ### Consultez votre dictionnaire
