@@ -1,0 +1,14 @@
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/bin/Debug/net8.0/PhonetiqueEspagnolC-
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/bin/Debug/net8.0/PhonetiqueEspagnolC-.deps.json
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/bin/Debug/net8.0/PhonetiqueEspagnolC-.runtimeconfig.json
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/bin/Debug/net8.0/PhonetiqueEspagnolC-.dll
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/bin/Debug/net8.0/PhonetiqueEspagnolC-.pdb
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/obj/Debug/net8.0/PhonetiqueEspagnolC-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/obj/Debug/net8.0/PhonetiqueEspagnolC-.AssemblyInfoInputs.cache
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/obj/Debug/net8.0/PhonetiqueEspagnolC-.AssemblyInfo.cs
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/obj/Debug/net8.0/PhonetiqueEspagnolC-.csproj.CoreCompileInputs.cache
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/obj/Debug/net8.0/PhonetiqueEspagnolC-.dll
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/obj/Debug/net8.0/refint/PhonetiqueEspagnolC-.dll
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/obj/Debug/net8.0/PhonetiqueEspagnolC-.pdb
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/obj/Debug/net8.0/PhonetiqueEspagnolC-.genruntimeconfig.cache
+/Users/maria23paz/Documents/M2/PROG1/PhonetiqueEspagnolC-/obj/Debug/net8.0/ref/PhonetiqueEspagnolC-.dll
